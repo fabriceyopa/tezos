@@ -12,3 +12,4 @@ With this repo, I want to validate how the Tezos works, so for any "_.js" files 
 - [x] Create and import a Tezos Account to DataHub
 - [x] Query Tezos blockchain
 - [x] Inject operation on Tezos node
+- [x] Create Smart Contract with ReasonLigo
