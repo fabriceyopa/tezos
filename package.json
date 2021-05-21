@@ -1,0 +1,18 @@
+{
+  "name": "tezos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@taquito/rpc": "^9.0.1",
+    "@taquito/signer": "^9.0.1",
+    "@taquito/taquito": "^9.0.1",
+    "dotenv": "^9.0.2"
+  }
+}
