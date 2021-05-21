@@ -11,4 +11,4 @@ With this repo, I want to validate how the Tezos works, so for any "_.js" files 
 - [x] Connect to the Tezos Baker and query the balance
 - [x] Create and import a Tezos Account to DataHub
 - [x] Query Tezos blockchain
-- [ ] Inject operation on Tezos node
+- [x] Inject operation on Tezos node
